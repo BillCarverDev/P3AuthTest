@@ -1,0 +1,11 @@
+#card {
+    height: 250px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 5%;
+}
+
+#selected-image{
+    width: 250px;
+    height: 200px;
+}

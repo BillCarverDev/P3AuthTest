@@ -1,0 +1,24 @@
+.footer {
+    height: 90px;
+    position: relative;
+    color: white;
+    overflow: auto;
+    display: block;
+    top: 70px;
+}
+
+.bottom {
+    background-image: url("https://i.ytimg.com/vi/zQFwPAqmYMs/maxresdefault.jpg");
+    font-size: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 5px;
+    text-align: left;
+    text-shadow:
+    -.5px -.5px 0 black,
+    .5px -.5px 0 black,
+    -.5px .5px 0 black,
+    .5px .5px 0 black;
+  }
